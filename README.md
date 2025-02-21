@@ -9,15 +9,27 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=bad-sect0r&color=red&style=flat-square)](#) [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/bad-sect0r) [![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black)](https://liberapay.com/bad-sect0r) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/bad_sect0r) [![Updated at](https://img.shields.io/github/last-commit/bad-sect0r/bad-sect0r)](#)
 
 </div>
+<br>
+<div align="center">
 
-## 🔥 About Me
+### 🔥 About Me 🔥
+
+</div>
+<br>
+
 
 👋 Hey there! I'm **bad-sect0r**, a passionate **Cybersecurity Engineer** and **Developer** with expertise in **offensive security, malware analysis and AI-driven security solutions**.
 I love building **cutting-edge security tools**, and designing robust backend architectures. 🚀
 
 🔍 My journey spans **red teaming**, **penetration testing** and **developing cybersecurity tools**, alongside **backend development** for **security-driven scalable applications**.
 
-## 🏆 Notable Projects
+<br>
+<div align="center">
+
+### 🏆 Notable Projects 🏆
+
+</div>
+<br>
 
 - 🏗️ **Microservices-based Static & Dynamic Sandbox**
 - 🛡️ **Threat Detection & SIEM System** (ELK Stack & Sigma Rules)
@@ -33,129 +45,129 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 - 🛠️ **Custom Encoders, Packers & Payload Delivery Mechanisms**
 - 🦦 ...
 
-## 🚀 Tools & Technologies Stack
+<br>
+<div align="center">
 
-#### 🔹 Programming & Scripting:
+### 🚀 Tools & Technologies Stack 🚀
+
+<br>
+
+#### 🔹 Programming & Scripting 🔹
 
 [![Go, Python, C, Cpp, Bash, Powershell, Kotlin, Java, Javascript](https://skillicons.dev/icons?i=go,python,c,cpp,bash,powershell,kotlin,java,javascript&theme=dark)](#-programming--scripting)
 
-#### 🔹 Cybersecurity & Reverse Engineering:
+#### 🔹 Cybersecurity & Reverse Engineering 🔹
 
 [![Metasploit](https://img.shields.io/badge/-Metasploit-0277BD?style=for-the-badge&logo=metasploit&logoColor=white)](#-cybersecurity--reverse-engineering) [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#-cybersecurity--reverse-engineering) [![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-001428?style=for-the-badge&logoColor=white)](#-cybersecurity--reverse-engineering) [![x64dbg](https://img.shields.io/badge/-x64dbg-003366?style=for-the-badge&logoColor=white)](#-cybersecurity--reverse-engineering) [![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)](#-cybersecurity--reverse-engineering)
 
-#### 🔹 Machine Learning:
+#### 🔹 Machine Learning 🔹
 
 [![Tensorflow, Pytorch, Opencv](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)](#-machine-learning)
 
-#### 🔹 Libraries:
+#### 🔹 Libraries 🔹
 
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](#-libraries) [![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#-libraries) [![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#-libraries) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#-libraries)
 
-#### 🔹 DevOps:
+#### 🔹 DevOps 🔹
 
 [![Docker, Kubernetes, Elasticsearch, Git, Gitlab, Jenkins](https://skillicons.dev/icons?i=docker,kubernetes,elasticsearch,git,gitlab,jenkins)](#-devops)
 
-#### 🔹 Cloud:
+#### 🔹 Cloud 🔹
 
 [![MinIO](https://img.shields.io/badge/MinIO-990000?style=for-the-badge&logo=minio&logoColor=white)](#-cloud) [![Microservices](https://img.shields.io/badge/-Microservices-FF9900?style=for-the-badge&logo=microservices&logoColor=white)](#-cloud)
 
-#### 🔹 Databases:
+#### 🔹 Databases 🔹
 
 [![Postgres, Mysql, Mongodb, Redis](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](#-databases)
 
-## 📊 GitHub Stats & Activity
+<br>
+
+### 📊 GitHub Stats & Activity 📊
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.2%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 41.7 kB Used in GitHub's Storage 
- > 
+> 📦 41.7 kB Used in GitHub's Storage
+>
 > 🏆 115 Contributions in the Year 2025
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 6 Private Repository 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 1 Public Repository
+>
+> 🔑 6 Private Repository
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                43 commits          ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-🌆 Daytime                69 commits          █████████░░░░░░░░░░░░░░░░   35.75 % 
-🌃 Evening                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-🌙 Night                  47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+🌞 Morning                43 commits          ██████░░░░░░░░░░░░░░░░░░░   22.28 %
+🌆 Daytime                69 commits          █████████░░░░░░░░░░░░░░░░   35.75 %
+🌃 Evening                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.62 %
+🌙 Night                  47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.35 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Wednesday                35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Friday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Sunday                   51 commits          ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Wednesday                35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.13 %
+Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Friday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Sunday                   51 commits          ███████░░░░░░░░░░░░░░░░░░   26.42 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: UTC
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Go**
 
 ```text
-Go                       3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Go                       3 repos             ████████████░░░░░░░░░░░░░   50.00 %
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 %
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
 ```
-
-
-
 
 <!--END_SECTION:waka-->
 
+</div>
+
 > _NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub._
-
-
 
 <div align="center">
   <a href="#-github-stats--activity"><img style="border-radius: 16px" src="https://github-readme-activity-graph.vercel.app/graph?username=bad-sect0r&theme=github" /></a>
 </div>
 <br>
 <div align="center">
-  <a href="#-github-stats--activity"><img align="center" style="height: 8rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bad-sect0r&theme=nord&hide_border=true&layout=compact" /></a>
-  <a href="#-github-stats--activity"><img align="center" style="height: 8rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=bad_sect0r&theme=nord&hide_border=true" /></a>
-</div>
-<br>
-<div align="center">
-  <a href="#-github-stats--activity"><img align="center" style="height: 8rem" src="https://github-readme-stats.vercel.app/api?username=bad-sect0r&theme=nord&hide_border=true&hide_title=true&show_icons=true&rank_icon=github" /></a>
-  <a href="#-github-stats--activity"><img align="center" style="height: 8rem" src="https://streak-stats.demolab.com/?user=bad-sect0r&theme=nord&hide_border=true"/></a>
-</div>
-<br>
-<div align="center">
   <a href="#-github-stats--activity"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bad-sect0r&theme=nord&no-frame=true&margin-w=15&margin-h=15&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/></a>
 </div>
 
-## 📡 Contact Info
+<br>
+<div align="center">
 
-<div>
+### 📡 Contact Info 📡
+
+  <div>
 
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:amir.m.amiirii@gmail.com) [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/am-amiri) [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/_xaMirx_)
 
+  </div>
 </div>
+<br>
 
 > _"Security is not a product, but a process." - Bruce Schneier_

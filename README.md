@@ -63,6 +63,11 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 
 [![Postgres, Mysql, Mongodb, Redis](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](#-databases)
 
+## 💃 Waka Waka
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## 📊 GitHub Stats & Activity
 
 <!-- ![Metrics](https://metrics.lecoq.io/bad-sect0r?template=classic&languages=1&introduction=1&isocalendar=1&stars=1&achievements=1&notable=1&activity=1&repositories=1&repositories=100&repositories.batch=100) -->

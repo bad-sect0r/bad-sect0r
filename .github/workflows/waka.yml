@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 00:00 UTC
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -21,4 +21,3 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_OS: "False"
           SHOW_LOC_CHART: "False"
-          LOCALE: "fa-IR"

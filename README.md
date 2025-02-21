@@ -63,85 +63,84 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 
 [![Postgres, Mysql, Mongodb, Redis](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](#-databases)
 
-## 💃 Waka Waka
+## 📊 GitHub Stats & Activity
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 41.7 kB Used in GitHub's Storage 
- > 
+> 📦 41.7 kB Used in GitHub's Storage
+>
 > 🏆 117 Contributions in the Year 2025
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 6 Private Repository 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 1 Public Repository
+>
+> 🔑 6 Private Repository
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                43 commits          ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-🌆 Daytime                69 commits          █████████░░░░░░░░░░░░░░░░   36.13 % 
-🌃 Evening                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-🌙 Night                  47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+🌞 Morning                43 commits          ██████░░░░░░░░░░░░░░░░░░░   22.51 %
+🌆 Daytime                69 commits          █████████░░░░░░░░░░░░░░░░   36.13 %
+🌃 Evening                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.75 %
+🌙 Night                  47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.61 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Wednesday                35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Friday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Sunday                   51 commits          ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Wednesday                35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 %
+Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Friday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09 %
+Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+Sunday                   51 commits          ███████░░░░░░░░░░░░░░░░░░   26.70 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: UTC
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Go**
 
 ```text
-Go                       3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Go                       3 repos             ████████████░░░░░░░░░░░░░   50.00 %
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 %
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/bad-sect0r/bad-sect0r/main/assets/bar_graph.png)
 
+Last Updated on 21/02/2025 21:57:10 UTC
 
- Last Updated on 21/02/2025 21:57:10 UTC
 <!--END_SECTION:waka-->
 
-## 📊 GitHub Stats & Activity
+> _NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub._
 
-<!-- ![Metrics](https://metrics.lecoq.io/bad-sect0r?template=classic&languages=1&introduction=1&isocalendar=1&stars=1&achievements=1&notable=1&activity=1&repositories=1&repositories=100&repositories.batch=100) -->
-<!-- ![Metrics](https://metrics.lecoq.io/bad-sect0r?template=classic&base.hireable=true&isocalendar=1&languages=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=UTC) -->
+
 
 <div align="center">
   <a href="#-github-stats--activity"><img style="border-radius: 16px" src="https://github-readme-activity-graph.vercel.app/graph?username=bad-sect0r&theme=github" /></a>

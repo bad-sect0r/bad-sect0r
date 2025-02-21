@@ -28,6 +28,8 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 
 </div>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 - 🏗️ **Microservices-based Static & Dynamic Sandbox**
 - 🛡️ **Threat Detection & SIEM System** (ELK Stack & Sigma Rules)
 - 🦠 **Vulnerability Scanner & Patch Management Tools**

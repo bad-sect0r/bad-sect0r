@@ -65,7 +65,77 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 
 ## 💃 Waka Waka
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 41.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 117 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 6 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                43 commits          ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+🌆 Daytime                69 commits          █████████░░░░░░░░░░░░░░░░   36.13 % 
+🌃 Evening                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+🌙 Night                  47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Wednesday                35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Friday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Sunday                   51 commits          ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: UTC
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Go** 
+
+```text
+Go                       3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/bad-sect0r/bad-sect0r/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/02/2025 21:57:10 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats & Activity

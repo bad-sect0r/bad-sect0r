@@ -12,11 +12,9 @@
 <br>
 <div align="center">
 
-### 🔥 About Me 🔥
+## 🔥 About Me 🔥
 
 </div>
-<br>
-
 
 👋 Hey there! I'm **bad-sect0r**, a passionate **Cybersecurity Engineer** and **Developer** with expertise in **offensive security, malware analysis and AI-driven security solutions**.
 I love building **cutting-edge security tools**, and designing robust backend architectures. 🚀
@@ -26,10 +24,9 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 <br>
 <div align="center">
 
-### 🏆 Notable Projects 🏆
+## 🏆 Notable Projects 🏆
 
 </div>
-<br>
 
 - 🏗️ **Microservices-based Static & Dynamic Sandbox**
 - 🛡️ **Threat Detection & SIEM System** (ELK Stack & Sigma Rules)
@@ -48,9 +45,7 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 <br>
 <div align="center">
 
-### 🚀 Tools & Technologies Stack 🚀
-
-<br>
+## 🚀 Tools & Technologies Stack 🚀
 
 #### 🔹 Programming & Scripting 🔹
 
@@ -82,68 +77,67 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 
 <br>
 
-### 📊 GitHub Stats & Activity 📊
+## 📊 GitHub Stats & Activity 📊
+
+</div>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
 
-> 📦 41.7 kB Used in GitHub's Storage 
- > 
+**🐱 My GitHub Data**
+
+> 📦 41.7 kB Used in GitHub's Storage
+>
 > 🏆 120 Contributions in the Year 2025
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 6 Private Repository 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 1 Public Repository
+>
+> 🔑 6 Private Repository
+>
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                43 commits          ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-🌆 Daytime                69 commits          █████████░░░░░░░░░░░░░░░░   35.57 % 
-🌃 Evening                35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-🌙 Night                  47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+🌞 Morning                43 commits          ██████░░░░░░░░░░░░░░░░░░░   22.16 %
+🌆 Daytime                69 commits          █████████░░░░░░░░░░░░░░░░   35.57 %
+🌃 Evening                35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.04 %
+🌙 Night                  47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.23 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Wednesday                35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Friday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Sunday                   51 commits          ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Wednesday                35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.04 %
+Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Friday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
+Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Sunday                   51 commits          ███████░░░░░░░░░░░░░░░░░░   26.29 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: UTC
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Go**
 
 ```text
-Go                       3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Go                       3 repos             ████████████░░░░░░░░░░░░░   50.00 %
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 %
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
 ```
 
-
-
-
 <!--END_SECTION:waka-->
-
-</div>
 
 > _NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub._
 
@@ -158,7 +152,7 @@ TypeScript               1 repo              ████░░░░░░░�
 <br>
 <div align="center">
 
-### 📡 Contact Info 📡
+## 📡 Contact Info 📡
 
   <div>
 

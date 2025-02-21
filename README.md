@@ -1,5 +1,5 @@
 <div align="center">
-  <a><img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Researcher%20| Malware%20Analyst;Red%20Team%20Operator%20|%20Pentester;Security%20Engineer%20|%20Secure%20Application%20Developer;Machine%20Learning%20Enthusiast;&font=Oxanium%20Code&center=true&vCenter=true&width=700&height=30&duration=4000&pause=1000&color=FF0000&size=24"/></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Researcher%20| Malware%20Analyst;Red%20Team%20Operator%20|%20Pentester;Security%20Engineer%20|%20Secure%20Application%20Developer;Machine%20Learning%20Enthusiast;&font=Oxanium%20Code&center=true&vCenter=true&width=700&height=30&duration=4000&pause=1000&color=FF0000&size=24"/></a>
 </div>
 
 <br>
@@ -69,21 +69,21 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 <!-- ![Metrics](https://metrics.lecoq.io/bad-sect0r?template=classic&base.hireable=true&isocalendar=1&languages=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=UTC) -->
 
 <div align="center">
-  <img style="border-radius: 16px" src="https://github-readme-activity-graph.vercel.app/graph?username=bad-sect0r&theme=github" />
+  <a href="#-github-stats--activity"><img style="border-radius: 16px" src="https://github-readme-activity-graph.vercel.app/graph?username=bad-sect0r&theme=github" /></a>
 </div>
 <br>
 <div align="center">
-  <img align="center" style="height: 8rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bad-sect0r&theme=nord&hide_border=true&layout=compact" />
-  <img align="center" style="height: 8rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=bad_sect0r&theme=nord&hide_border=true" />
+  <a href="#-github-stats--activity"><img align="center" style="height: 8rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bad-sect0r&theme=nord&hide_border=true&layout=compact" /></a>
+  <a href="#-github-stats--activity"><img align="center" style="height: 8rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=bad_sect0r&theme=nord&hide_border=true" /></a>
 </div>
 <br>
 <div align="center">
-  <img align="center" style="height: 8rem" src="https://github-readme-stats.vercel.app/api?username=bad-sect0r&theme=nord&hide_border=true&hide_title=true&show_icons=true&rank_icon=github" />
-  <img align="center" style="height: 8rem" src="https://streak-stats.demolab.com/?user=bad-sect0r&theme=nord&hide_border=true"/>
+  <a href="#-github-stats--activity"><img align="center" style="height: 8rem" src="https://github-readme-stats.vercel.app/api?username=bad-sect0r&theme=nord&hide_border=true&hide_title=true&show_icons=true&rank_icon=github" /></a>
+  <a href="#-github-stats--activity"><img align="center" style="height: 8rem" src="https://streak-stats.demolab.com/?user=bad-sect0r&theme=nord&hide_border=true"/></a>
 </div>
 <br>
 <div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=bad-sect0r&theme=nord&no-frame=true&margin-w=15&margin-h=15&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+  <a href="#-github-stats--activity"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bad-sect0r&theme=nord&no-frame=true&margin-w=15&margin-h=15&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/></a>
 </div>
 
 ## 📡 Contact Info

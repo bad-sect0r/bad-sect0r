@@ -1,8 +1,13 @@
-# <div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Researcher%20| Malware%20Analyst;Red%20Team%20Operator%20|%20Pentester;Security%20Engineer%20|%20Secure%20Application%20Developer;Machine%20Learning%20Enthusiast;&font=Oxanium%20Code&center=true&vCenter=true&width=700&height=30&duration=4000&pause=1000&color=FF0000&size=24"/></div>
+<div align="center">
+  <a><img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Researcher%20| Malware%20Analyst;Red%20Team%20Operator%20|%20Pentester;Security%20Engineer%20|%20Secure%20Application%20Developer;Machine%20Learning%20Enthusiast;&font=Oxanium%20Code&center=true&vCenter=true&width=700&height=30&duration=4000&pause=1000&color=FF0000&size=24"/></a>
+</div>
+
+<br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=bad-sect0r&color=red&style=flat-square) [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/bad-sect0r) [![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black)](https://liberapay.com/bad-sect0r) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/bad_sect0r) 
+[![Profile Views](https://komarev.com/ghpvc/?username=bad-sect0r&color=red&style=flat-square)](#) [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/bad-sect0r) [![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black)](https://liberapay.com/bad-sect0r) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/bad_sect0r) [![Updated at](https://img.shields.io/github/last-commit/bad-sect0r/bad-sect0r)](#)
+
 </div>
 
 ## 🔥 About Me
@@ -30,25 +35,33 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 
 ## 🚀 Tools & Technologies Stack
 
-### 🔹 Programming & Scripting:
+#### 🔹 Programming & Scripting:
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Powershell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Go, Python, C, Cpp, Bash, Powershell, Kotlin, Java, Javascript](https://skillicons.dev/icons?i=go,python,c,cpp,bash,powershell,kotlin,java,javascript&theme=dark)](#-programming--scripting)
 
-### 🔹 Cybersecurity & Reverse Engineering:
+#### 🔹 Cybersecurity & Reverse Engineering:
 
-![Metasploit](https://img.shields.io/badge/-Metasploit-0277BD?style=for-the-badge&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-001428?style=for-the-badge&logoColor=white) ![x64dbg](https://img.shields.io/badge/-x64dbg-003366?style=for-the-badge&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
+[![Metasploit](https://img.shields.io/badge/-Metasploit-0277BD?style=for-the-badge&logo=metasploit&logoColor=white)](#-cybersecurity--reverse-engineering) [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#-cybersecurity--reverse-engineering) [![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-001428?style=for-the-badge&logoColor=white)](#-cybersecurity--reverse-engineering) [![x64dbg](https://img.shields.io/badge/-x64dbg-003366?style=for-the-badge&logoColor=white)](#-cybersecurity--reverse-engineering) [![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)](#-cybersecurity--reverse-engineering)
 
-### 🔹 Machine Learning & AI for Security:
+#### 🔹 Machine Learning:
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![Tensorflow, Pytorch, Opencv](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)](#-machine-learning)
 
-### 🔹 DevOps & Cloud:
+#### 🔹 Libraries:
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Elastic Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-990000?style=for-the-badge&logo=minio&logoColor=white) ![Microservices](https://img.shields.io/badge/-Microservices-FF9900?style=for-the-badge&logo=microservices&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-A6A6A6?style=for-the-badge&logo=githubactions&logoColor=white)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](#-libraries) [![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#-libraries) [![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#-libraries) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#-libraries)
 
-### 🔹 Databases:
+#### 🔹 DevOps:
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![CouchDB](https://img.shields.io/badge/-CouchDB-EA2328?style=for-the-badge&logo=apache-couchdb&logoColor=white)
+[![Docker, Kubernetes, Elasticsearch, Git, Gitlab, Jenkins](https://skillicons.dev/icons?i=docker,kubernetes,elasticsearch,git,gitlab,jenkins)](#-devops)
+
+#### 🔹 Cloud:
+
+[![MinIO](https://img.shields.io/badge/MinIO-990000?style=for-the-badge&logo=minio&logoColor=white)](#-cloud) [![Microservices](https://img.shields.io/badge/-Microservices-FF9900?style=for-the-badge&logo=microservices&logoColor=white)](#-cloud)
+
+#### 🔹 Databases:
+
+[![Postgres, Mysql, Mongodb, Redis](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](#-databases)
 
 ## 📊 GitHub Stats & Activity
 
@@ -75,8 +88,10 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 
 ## 📡 Contact Info
 
-📧 **Email:** [amir.m.amiirii@gmail.com](mailto:amir.m.amiirii@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/am-amiri](https://linkedin.com/in/am-amiri)  
-🐦 **Twitter:** [@\_xaMirx\_](https://twitter.com/_xaMirx_)
+<div>
+
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:amir.m.amiirii@gmail.com) [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/am-amiri) [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/_xaMirx_)
+
+</div>
 
 > _"Security is not a product, but a process." - Bruce Schneier_

@@ -88,6 +88,8 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 
 > 📦 56.6 kB Used in GitHub's Storage 
  > 
+> 🏆 193 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 2 Public Repositories 

@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Researcher%20| Malware%20Analyst;Red%20Team%20Operator%20|%20Pentester;Security%20Engineer%20|%20Secure%20Application%20Developer;Machine%20Learning%20Enthusiast;&font=Oxanium%20Code&center=true&vCenter=true&width=700&height=30&duration=4000&pause=1000&color=FF0000&size=24"/></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Researcher+| Malware+Analyst;Red+Team+Operator+|+Pentester;Security+Engineer+|+Secure+Application+Developer;Machine+Learning+Enthusiast;&font=Oxanium+Code&center=true&vCenter=true&width=700&height=30&duration=4000&pause=1000&color=FF0000&size=24"/></a>
 </div>
 
 <br>

@@ -30,18 +30,16 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 🏗️ **Microservices-based Static & Dynamic Sandbox**
-- 🛡️ **Threat Detection & SIEM System** (ELK Stack & Sigma Rules)
-- 🦠 **Vulnerability Scanner & Patch Management Tools**
-- 🔥 **Semi-Active Honeypot System**
-- 🌐 **DDoS Protection System**
-- 📊 **Windows Event Monitoring Tool**
-- 📡 **Secure Remote Access Over Socket**
-- 🔍 **Automated Wi-Fi Penetration Test Tool**
-- 📜 **Profanity/Vulgar Language Detection** (DNN)
-- 🚀 **Signature Extractor & Sign Tool for Windows**
-- 🕵️ **Malicious File Spectrum Detector** (DNN + Steganography)
-- 🛠️ **Custom Encoders, Packers & Payload Delivery Mechanisms**
+- 🏗️ **CourtHex:** a microservice-based threat detection sandbox + machine learning detection & enrichment
+- 🦠 **VulNo:** a vulnerability assesment platform + multiplatform native agent _(windows / linux)_
+- 🔥 **Pitchak:** a patch management app for linux
+- 🛡️ **SIEM:** on ELK Stack & Sigma Rules
+- 🐻 **Bearbados:** a semi-active honeypot system
+- 🕵️ **Inspectrum:** malicious file spectrum detector (DNN + Steganography)
+- 👁️ **Accuro:** a software execution protection systems with FaceID authentication.
+- 📜 **Profanity/Vulgar Language Detection**
+- 🚀 **signature extractor & sign tool for Windows**
+- 📊 **monitoring and secure access tools, security testing tools, android toolbox apps and custom compilers**.
 - 🦦 ...
 
 <br>
@@ -51,31 +49,27 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 
 #### 🔹 Programming & Scripting 🔹
 
-[![Go, Python, C, Cpp, Bash, Powershell, Kotlin, Java, Javascript](https://skillicons.dev/icons?i=go,python,c,cpp,bash,powershell,kotlin,java,javascript&theme=dark)](#-programming--scripting)
-
-#### 🔹 Cybersecurity & Reverse Engineering 🔹
-
-[![Metasploit](https://img.shields.io/badge/-Metasploit-0277BD?style=for-the-badge&logo=metasploit&logoColor=white)](#-cybersecurity--reverse-engineering) [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#-cybersecurity--reverse-engineering) [![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-001428?style=for-the-badge&logoColor=white)](#-cybersecurity--reverse-engineering) [![x64dbg](https://img.shields.io/badge/-x64dbg-003366?style=for-the-badge&logoColor=white)](#-cybersecurity--reverse-engineering) [![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)](#-cybersecurity--reverse-engineering)
+[![Go, Python, Django, C, Cpp, Bash, Powershell, Kotlin, Javascript, Typescript](https://skillicons.dev/icons?i=go,python,django,c,cpp,bash,powershell,kotlin,js,ts&theme=dark)](#-programming--scripting)
 
 #### 🔹 Machine Learning 🔹
 
-[![Tensorflow, Pytorch, Opencv](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)](#-machine-learning)
+[![Tensorflow, Pytorch, Scikit-Learn, Opencv](https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv)](#-machine-learning)
 
-#### 🔹 Libraries 🔹
+#### 🔹 Monitoring 🔹
 
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](#-libraries) [![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#-libraries) [![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#-libraries) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#-libraries)
+[![Elasticsearch, Grafana, Prometheus](https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus)](#-monitoring)
 
 #### 🔹 DevOps 🔹
 
-[![Docker, Kubernetes, Elasticsearch, Git, Gitlab, Jenkins](https://skillicons.dev/icons?i=docker,kubernetes,elasticsearch,git,gitlab,jenkins)](#-devops)
+[![Docker, Kubernetes, Kafka, Terraform, Git, Gitlab, Jenkins](https://skillicons.dev/icons?i=docker,kubernetes,kafka,terraform,git,gitlab,jenkins)](#-devops)
 
-#### 🔹 Cloud 🔹
+#### 🔹 OS-es I Like🔹
 
-[![MinIO](https://img.shields.io/badge/MinIO-990000?style=for-the-badge&logo=minio&logoColor=white)](#-cloud) [![Microservices](https://img.shields.io/badge/-Microservices-FF9900?style=for-the-badge&logo=microservices&logoColor=white)](#-cloud)
+[![x](https://skillicons.dev/icons?i=arch,kali,debian,windows)](#-os-es-i-like)
 
-#### 🔹 Databases 🔹
+#### 🔹 Databases I Use🔹
 
-[![Postgres, Mysql, Mongodb, Redis](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](#-databases)
+[![Postgres, Mysql, Mongodb, Redis](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](#-databases-i-use)
 
 <br>
 
@@ -84,71 +78,69 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 </div>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
 
-> 📦 448.3 kB Used in GitHub's Storage 
- > 
+**🐱 My GitHub Data**
+
+> 📦 448.3 kB Used in GitHub's Storage
+>
 > 🏆 772 Contributions in the Year 2025
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 21 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 3 Public Repositories
+>
+> 🔑 21 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                276 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-🌆 Daytime                447 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌃 Evening                376 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-🌙 Night                  430 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌞 Morning                276 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 %
+🌆 Daytime                447 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 %
+🌃 Evening                376 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 %
+🌙 Night                  430 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 %
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   315 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Tuesday                  259 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Wednesday                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Thursday                 114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Friday                   135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Saturday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Sunday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Monday                   315 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+Tuesday                  259 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 %
+Wednesday                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Thursday                 114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Friday                   135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Saturday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Sunday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Tehran
 
-💬 Programming Languages: 
-Go                       36 hrs 44 mins      █████████████████░░░░░░░░   67.84 % 
-Docker                   7 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-YAML                     4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Bash                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Python                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+💬 Programming Languages:
+Go                       36 hrs 44 mins      █████████████████░░░░░░░░   67.84 %
+Docker                   7 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
+YAML                     4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Bash                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Python                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 
-🔥 Editors: 
-VS Code                  54 hrs 10 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  54 hrs 10 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Go**
 
 ```text
-Go                       11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
-Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Go                       11 repos            ██████████░░░░░░░░░░░░░░░   39.29 %
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 %
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
-
-
-
 
 <!--END_SECTION:waka-->
 
-> _NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub._
+> _**NOTE:** Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub._
 
 <div align="center">
   <a href="#-github-stats--activity"><img style="border-radius: 16px" src="https://github-readme-activity-graph.vercel.app/graph?username=bad-sect0r&theme=github" /></a>

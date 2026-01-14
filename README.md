@@ -117,11 +117,10 @@ Sunday                   264 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Python                   3 hrs 39 mins       █████████████████████████   99.25 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 

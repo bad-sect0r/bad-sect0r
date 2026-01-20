@@ -80,7 +80,7 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 456.2 kB Used in GitHub's Storage 
+> 📦 456.1 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -117,10 +117,14 @@ Sunday                   266 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 hrs 40 mins       ██████████████████░░░░░░░   72.12 % 
+Text                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+TypeScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 

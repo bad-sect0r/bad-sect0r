@@ -90,6 +90,43 @@ I love building **cutting-edge security tools**, and designing robust backend ar
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                459 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+🌆 Daytime                650 commits         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌃 Evening                523 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+🌙 Night                  817 commits         ████████░░░░░░░░░░░░░░░░░   33.36 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   411 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Tuesday                  514 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Wednesday                380 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Thursday                 202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Friday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Saturday                 307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Sunday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+TypeScript               16 hrs 43 mins      ██████████████░░░░░░░░░░░   56.40 % 
+Go                       8 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Other                    2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+
+🔥 Editors: 
+VS Code                  29 hrs 38 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text

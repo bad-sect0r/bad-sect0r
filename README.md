@@ -80,7 +80,7 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 457.7 kB Used in GitHub's Storage 
+> 📦 457.9 kB Used in GitHub's Storage 
  > 
 > 🏆 172 Contributions in the Year 2026
  > 
@@ -90,6 +90,43 @@ I love building **cutting-edge security tools**, and designing robust backend ar
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                459 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+🌆 Daytime                656 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+🌃 Evening                528 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+🌙 Night                  820 commits         ████████░░░░░░░░░░░░░░░░░   33.29 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   412 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Tuesday                  517 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Wednesday                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Thursday                 204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Friday                   257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Saturday                 309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Sunday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+TypeScript               35 hrs 59 mins      ████████████░░░░░░░░░░░░░   46.92 % 
+Go                       24 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   32.04 % 
+Python                   6 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Other                    1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+JSON                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+
+🔥 Editors: 
+VS Code                  76 hrs 42 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text

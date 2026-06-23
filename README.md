@@ -80,7 +80,7 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 458.2 kB Used in GitHub's Storage 
+> 📦 458.1 kB Used in GitHub's Storage 
  > 
 > 🏆 182 Contributions in the Year 2026
  > 

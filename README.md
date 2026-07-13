@@ -117,10 +117,11 @@ Sunday                   426 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     5 mins              ███████████████████░░░░░░   74.59 % 
+YAML                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 

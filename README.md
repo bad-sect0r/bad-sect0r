@@ -80,7 +80,7 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 458.3 kB Used in GitHub's Storage 
+> 📦 458.4 kB Used in GitHub's Storage 
  > 
 > 🏆 186 Contributions in the Year 2026
  > 
@@ -93,21 +93,21 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                519 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-🌆 Daytime                740 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-🌃 Evening                605 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-🌙 Night                  961 commits         █████████░░░░░░░░░░░░░░░░   34.02 % 
+🌞 Morning                549 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+🌆 Daytime                779 commits         ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+🌃 Evening                643 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+🌙 Night                  1028 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   452 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Tuesday                  565 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Wednesday                429 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Thursday                 270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Friday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Saturday                 361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Sunday                   426 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Monday                   471 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Tuesday                  589 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Wednesday                451 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Thursday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Friday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Saturday                 387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Sunday                   449 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 ```
 
 
@@ -117,14 +117,14 @@ Sunday                   426 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Go                       3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.03 % 
-TypeScript               3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.50 % 
-Docker                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Go                       3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
+TypeScript               3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.06 % 
+Docker                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 

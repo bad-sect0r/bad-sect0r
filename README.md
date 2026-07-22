@@ -117,14 +117,14 @@ Sunday                   449 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Go                       6 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.53 % 
-TypeScript               3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-HTML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Docker                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Go                       5 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.04 % 
+TypeScript               5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.85 % 
+HTML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 

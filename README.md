@@ -80,9 +80,9 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 458.4 kB Used in GitHub's Storage 
+> 📦 458.5 kB Used in GitHub's Storage 
  > 
-> 🏆 186 Contributions in the Year 2026
+> 🏆 196 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -90,43 +90,6 @@ I love building **cutting-edge security tools**, and designing robust backend ar
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                549 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-🌆 Daytime                779 commits         ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-🌃 Evening                643 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-🌙 Night                  1028 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   471 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  589 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Wednesday                451 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Thursday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Friday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Saturday                 387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Sunday                   449 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tehran
-
-💬 Programming Languages: 
-Go                       5 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.04 % 
-TypeScript               5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.85 % 
-HTML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-
-🔥 Editors: 
-VS Code                  14 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text

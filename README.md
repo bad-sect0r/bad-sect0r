@@ -119,14 +119,14 @@ Sunday                   495 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               6 hrs 5 mins        ███████████████████░░░░░░   77.12 % 
-Go                       1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TypeScript               3 hrs 39 mins       █████████████████░░░░░░░░   69.84 % 
+Go                       1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

@@ -78,6 +78,8 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 </div>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%205%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 458.7 kB Used in GitHub's Storage 
@@ -90,6 +92,49 @@ I love building **cutting-edge security tools**, and designing robust backend ar
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                641 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+🌆 Daytime                896 commits         ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+🌃 Evening                758 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+🌙 Night                  1237 commits        █████████░░░░░░░░░░░░░░░░   35.02 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   530 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  662 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Wednesday                519 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Thursday                 404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Friday                   431 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Saturday                 468 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Sunday                   518 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+Go                       9 hrs 12 mins       ███████████████████████░░   91.16 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 5 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text

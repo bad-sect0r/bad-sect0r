@@ -119,10 +119,14 @@ Sunday                   541 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 52 mins        ███████████████████████░░   93.81 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

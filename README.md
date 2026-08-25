@@ -95,21 +95,21 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                671 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-🌆 Daytime                935 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-🌃 Evening                796 commits         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-🌙 Night                  1304 commits        █████████░░░░░░░░░░░░░░░░   35.19 % 
+🌞 Morning                701 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+🌆 Daytime                974 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+🌃 Evening                834 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+🌙 Night                  1371 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   549 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Tuesday                  686 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Wednesday                541 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Thursday                 437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Friday                   458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Saturday                 494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Sunday                   541 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Monday                   568 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Tuesday                  710 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Wednesday                563 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Thursday                 470 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Friday                   485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Saturday                 520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Sunday                   564 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
 ```
 
 
@@ -119,14 +119,13 @@ Sunday                   541 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Go                       10 hrs 31 mins      ████████████████████████░   97.73 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Go                       8 hrs 40 mins       █████████████████████████   98.26 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

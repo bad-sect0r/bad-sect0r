@@ -95,21 +95,21 @@ I love building **cutting-edge security tools**, and designing robust backend ar
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                701 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-🌆 Daytime                974 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-🌃 Evening                834 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-🌙 Night                  1371 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌞 Morning                699 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+🌆 Daytime                974 commits         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+🌃 Evening                794 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+🌙 Night                  1351 commits        █████████░░░░░░░░░░░░░░░░   35.39 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   568 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Tuesday                  710 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Wednesday                563 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 470 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Friday                   485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Saturday                 520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Sunday                   564 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Monday                   527 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Tuesday                  710 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Wednesday                562 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Thursday                 470 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Friday                   465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Saturday                 520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Sunday                   564 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 ```
 
 
@@ -138,11 +138,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
-Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Go                       9 repos             █████████░░░░░░░░░░░░░░░░   36.00 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
